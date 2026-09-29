@@ -8,7 +8,7 @@ __pycache__/
 *.py[cod]
 
 # Streamlit secrets - NEVER push passwords/API keys
-.streamlit/secrets.toml
+**/.streamlit/secrets.toml
 
 # Environment variables / secrets
 .env
